@@ -35,7 +35,7 @@
 
 ## Overview of AesBench
 <p align="center">
-    <img src="imgs/expert.png"/>
+    <img src="imgs/overview.png"/>
 <p>
 
 We construct a high-quality Expert-labeled Aesthetic Perception Database (EAPD), based on which we further build the golden benchmark to evaluate four abilities of MLLMs on image aesthetic perception, including Aesthetic Perception (AesP), Aesthetic Empathy (AesE), Aesthetic Assessment (AesA) and Aesthetic Interpretation (AesI).
