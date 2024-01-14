@@ -11,7 +11,7 @@
   <a>Haoning Wu</a><sup>2</sup>, 
   <a>Pengfei Chen</a><sup>1</sup>, 
   <a>Leida Li*</a><sup>1</sup>, 
-  <a>Weisi Lin</a><sup>2</sup>, 
+  <a>Weisi Lin</a><sup>2</sup>
 </h4>
 <ul align="center">
   <sup>1</sup>Xidian University</li>
