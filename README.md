@@ -22,3 +22,14 @@
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub.  </h2>
 
 <h5 align="center">
+
+[![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://github.com/yipoh/AesBench)
+[![hf_space](https://img.shields.io/badge/🤗-Dataset%20Spaces-blue.svg)](https://github.com/yipoh/AesBench) 
+[![arXiv](https://img.shields.io/badge/Arxiv-2312.02896-b31b1b.svg?logo=arXiv)](https://github.com/yipoh/AesBench)
+[![Endpoint Badge](https://img.shields.io/badge/BenchLMM-Leaderboard-blue)](https://github.com/yipoh/AesBench)
+
+[![zhihu](https://img.shields.io/badge/-知乎-000000?logo=zhihu&logoColor=0084FF)](https://github.com/yipoh/AesBench)
+[![Wechat](https://img.shields.io/badge/-WeChat@CVer-000000?logo=wechat&logoColor=07C160)](https://github.com/yipoh/AesBench)
+ <br>
+
+</h5>
