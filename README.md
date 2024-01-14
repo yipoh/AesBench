@@ -17,3 +17,8 @@
   <sup>1</sup>Xidian University</li>
   <sup>2</sup>Nanyang Technological University</li>
 </ul>
+
+<h5 align="center"> †Equal contribution, *Corresponding Author </h5>
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub.  </h2>
+
+<h5 align="center">
