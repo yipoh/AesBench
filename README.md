@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="imgs/tittle_fig.png" width="150" style="margin-bottom: 0.2;"/>
+    <img src="imgs/img1.png" width="150" style="margin-bottom: 0.2;"/>
 <p>
 <h2 align="center"> <a href="https://arxiv.org/abs/2312.02896"> AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception</a></h2>
 <h4 align="center">
