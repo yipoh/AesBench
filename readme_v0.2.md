@@ -1,5 +1,5 @@
 # AesBench
-Official repository of ["**AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception**"](https://arxiv.org/abs/2312.02896)
+Official repository of ["**AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception**"](https://arxiv.org/abs/XXXX)
 
 
 ## About AesBench
