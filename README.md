@@ -2,7 +2,7 @@
 <p align="center">
     <img src="imgs/img1.png" width="150" style="margin-bottom: 0.2;"/>
 <p>
-<h2 align="center"> <a href="https://arxiv.org/abs/2312.02896"> AesBench: An Expert Benchmark for Multimodal Large Language Models on <br> Image Aesthetics Perception</a></h2>
+<h2 align="center"> <a href="https://arxiv.org/abs/XXXX"> AesBench: An Expert Benchmark for Multimodal Large Language Models on <br> Image Aesthetics Perception</a></h2>
 <h4 align="center">
   <a>Yipo Huang†</a><sup>1</sup>, 
   <a>Quan Yuan†</a><sup>1</sup>, 
