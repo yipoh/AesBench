@@ -147,16 +147,14 @@ Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision]
 
 
 ## Acknowledgement
-This project was completed by Yipo Huang during his visit to Nanyang Technological University in Singapore. 
+Yipo Huang participated in this project during his visit to Nanyang Technological University in Singapore. 
 
-Many thanks to Professor [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html) for his guidance and advice. 
+In addition, special thanks are extended to the 32 aesthetic experts who participated in our experiments, whose rich aesthetic experience and responsible attitude played a crucial role in the construction of the dataset. We highlight the following:
 
-In addition, special thanks are extended to the aesthetic experts who participated in our experiments, whose rich aesthetic experience and responsible attitude played a crucial role in the construction of the dataset. We highlight the following:
+>  **Wei Liu, Xin Liu, Luxia Chen, Tianjiao Gu, Dahai Tian, Ziyan Ou, et al.**
 
->  **Wei Liu, Xin Liu, Luxia Chen, Tianjiao Gu, Dahai Tian, Ziyan Ou, ...**
-
-Finally, special thanks are extended to collabrators, for their kind assistance in data collection and MLLM deployment:
-> **Zhichao Duan, Pangu Xie, ...**
+Finally, special thanks are extended to collaborators, for their kind assistance in data collection and MLLM deployment:
+> **Zhichao Duan, Pangu Xie**
 
 
 ## Citation
