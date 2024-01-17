@@ -31,8 +31,8 @@ After evaluation, you will get 4 XXX.json, please submit to us through one of th
 
 - Yipo Huang, `huangyipo@stu.xidian.edu.cn `, 
 - Quan Yuan, `dylan.yuanquan@outlook.com`,
-- Xiangfei Sheng, `xiangfeisheng@gmail.com`
-- Zhichao Yang, `yangzhichao@stu.xidian.edu.cn`
+- Xiangfei Sheng, `xiangfeisheng@gmail.com`,
+- Zhichao Yang, `yangzhichao@stu.xidian.edu.cn`.
 
 ## Citation
 
