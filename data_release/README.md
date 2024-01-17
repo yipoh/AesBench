@@ -35,6 +35,8 @@ After evaluation, you will get 4 XXX.json, please submit to us through one of th
 - Xiangfei Sheng, `xiangfeisheng@gmail.com`,
 - Zhichao Yang, `yangzhichao@stu.xidian.edu.cn`.
 
+We will give you feedback on the evaluation result as soon as possible.
+
 ## Citation
 
 If you find our work interesting, please feel free to cite our paper:
