@@ -1,6 +1,6 @@
 # Data Release
 
-The respective images are in the `EAPD_release.zip`.
+The respective images can be access through [EAPD_release.zip](https://pan.baidu.com/s/1ghXunZJlIjhXGeSWeIl1sA?pwd=ippl).
 
 
 ## Contact
