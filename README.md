@@ -30,6 +30,7 @@ _How do Multimodal LLMs perform on Image Aesthetics Perception?_
    </div>
     
 
+<h5 align="center"> If you like this research, please give us a star ⭐ on GitHub.  </h2>
     
 
 
