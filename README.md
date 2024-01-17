@@ -154,7 +154,7 @@ In addition, special thanks are extended to the 32 aesthetic experts who partici
 >  **Wei Liu, Xin Liu, Luxia Chen, Tianjiao Gu, Dahai Tian, Ziyan Ou, et al.**
 
 Finally, special thanks are extended to collaborators, for their kind assistance in data collection and MLLM deployment:
-> **Zhichao Duan, Pangu Xie**
+> **Zhichao Duan and Pangu Xie.**
 
 
 ## Citation
