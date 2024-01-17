@@ -137,3 +137,15 @@ Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision]
 | MiniGPT-4           | 1.158   | 0.823   | 1.016   | 0.999   | 13   |
 | GLM                 | 1.122   | 0.729   | 0.944   | 0.932   | 14   |
 | TinyGPT-V           | 0.871   | 0.511   | 0.720   | 0.701   | 15   |
+
+## Citation
+
+If you find our work interesting, please feel free to cite our paper:
+
+```bibtex
+@article{huang2024aesbench,
+    title={AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception},
+    author={Huang, yipo and Yuan, Quan and Sheng, Xiangfei and Yang, Zhichao and Wu, Haoning and Chen, Pengfei and Yang, Yuzhe and Li, Leida and Lin, Weisi},
+    year={2024},
+}
+```
