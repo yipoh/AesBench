@@ -2,10 +2,10 @@
     
     
  <div>
-     <a href="https://github.com/yipoh/AesBench/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvqassessment%2FAesBench&count_bg=%23E97EBA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
     <a href="https://github.com/yipoh/AesBench"><img src="https://img.shields.io/github/stars/yipoh/AesBench"/></a>
     <a href="https://arxiv.org/abs/2401.08276"><img src="https://img.shields.io/badge/Arxiv-2401:08276-red"/></a>
     <a href="https://github.com/Q-Future/Q-Bench/releases/tag/v1.0.1.1014datarelease"><img src="https://img.shields.io/badge/Data-Comming_Soon-blue"></a>
+    <a href="https://github.com/yipoh/AesBench/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvqassessment%2FAesBench&count_bg=%23E97EBA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 </div>
    
 
