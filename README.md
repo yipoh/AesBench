@@ -152,7 +152,7 @@ Many thanks to Professor [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html
 
 In addition, special thanks are extended to the aesthetic experts who participated in our experiments, whose rich aesthetic experience and responsible attitude played a crucial role in the construction of the dataset. We highlight the following:
 
->  **Wei Liu, Xin Liu, Luxia Chen, Dahai Tian, Ziyan Ou, ...**
+>  **Wei Liu, Xin Liu, Luxia Chen, Tianjiao Gu, Dahai Tian, Ziyan Ou, ...**
 
 Finally, special thanks are extended to collabrators, for their kind assistance in data collection and MLLM deployment:
 > **Zhichao Duan, Pangu Xie, ...**
