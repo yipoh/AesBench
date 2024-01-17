@@ -138,6 +138,19 @@ Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision]
 | GLM                 | 1.122   | 0.729   | 0.944   | 0.932   | 14   |
 | TinyGPT-V           | 0.871   | 0.511   | 0.720   | 0.701   | 15   |
 
+## Acknowledgement
+This project was completed by Yipo Huang during his visit to Nanyang Technological University in Singapore. 
+
+Many thanks to Professor [Weisi Lin](https://dr.ntu.edu.sg/cris/rp/rp00683) for his guidance and advice. 
+
+In addition, special thanks are extended to the aesthetic experts who participated in our experiments, whose rich aesthetic experience and responsible attitude played a crucial role in the construction of the dataset. We highlight the following:
+
+>  **Wei Liu, Xin Liu, Luxia Chen, Dahai Tian, Ziyan Ou, ...**
+
+Finally, special thanks are extended to collabrators, for their kind assistance in data collection and MLLM deployment:
+> **Zhichao Duan, Pangu Xie, ...**
+
+
 ## Citation
 
 If you find our work interesting, please feel free to cite our paper:
