@@ -5,7 +5,7 @@ The respective images can be access through [EAPD_release.zip](https://pan.baidu
 
 ## Contact
 
-Please contact any of the first authors of this paper for queries.
+Please contact the following authors of this paper for queries.
 
 - Yipo Huang, `huangyipo@stu.xidian.edu.cn `, 
 - Quan Yuan, `dylan.yuanquan@outlook.com`, 
