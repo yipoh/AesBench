@@ -26,9 +26,8 @@ python eval/eval_AesI.py
 python eval/eval_AesP.py
 ```
 
-## Contact
-
-Please contact the following authors of this paper for queries.
+### Submit results
+After evaluation, you will get 4 XXX.json, please submit to us through one of the following :
 
 - Yipo Huang, `huangyipo@stu.xidian.edu.cn `, 
 - Quan Yuan, `dylan.yuanquan@outlook.com`,
