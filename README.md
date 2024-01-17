@@ -4,9 +4,11 @@
  <div>
     <a href="https://github.com/yipoh/AesBench"><img src="https://img.shields.io/github/stars/yipoh/AesBench"/></a>
     <a href="https://arxiv.org/abs/2401.08276"><img src="https://img.shields.io/badge/Arxiv-2401:08276-red"/></a>
-    <a href="https://github.com/Q-Future/Q-Bench/releases/tag/v1.0.1.1014datarelease"><img src="https://img.shields.io/badge/Data-Comming_Soon-blue"></a>
-    <a href="https://github.com/yipoh/AesBench/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvqassessment%2FAesBench&count_bg=%23E97EBA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
-</div>
+    <a href="https://github.com/yipoh/AesBench/tree/main/data_release"><img src="https://img.shields.io/badge/Data-Release-orange"></a>
+
+   </div>
+
+
    
 
   <h1>AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception</h1>
@@ -135,6 +137,16 @@ Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision]
 | MiniGPT-4           | 1.158   | 0.823   | 1.016   | 0.999   | 13   |
 | GLM                 | 1.122   | 0.729   | 0.944   | 0.932   | 14   |
 | TinyGPT-V           | 0.871   | 0.511   | 0.720   | 0.701   | 15   |
+
+
+## Submission Guideline
+
+
+- via GitHub Release: Please see our [release](https://pan.baidu.com/s/1ghXunZJlIjhXGeSWeIl1sA?pwd=ippl) for details.
+
+
+
+
 
 ## Acknowledgement
 This project was completed by Yipo Huang during his visit to Nanyang Technological University in Singapore. 
