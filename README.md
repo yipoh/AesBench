@@ -1,4 +1,3 @@
-<p align="right">Introduction| <a href="./data_release/README.md">Implementation</a></p>
 <div align="center">
     
     
