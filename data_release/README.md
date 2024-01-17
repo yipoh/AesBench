@@ -1,7 +1,30 @@
-# Data Release
+## Data Release
 
 The respective images can be access through [EAPD_release.zip](https://pan.baidu.com/s/1ghXunZJlIjhXGeSWeIl1sA?pwd=ippl).
 
+
+## Evaluation 
+Here is an example code for evaluting through API style, please fit the according lines for evaluating your own MLLMs.
+
+### Evaluating AesA1
+```python
+python eval/eval_AesA1.py
+```
+
+### Evaluating AesE
+```python
+python eval/eval_AesE.py
+```
+
+### Evaluating AesI
+```python
+python eval/eval_AesI.py
+```
+
+### Evaluating AesP
+```python
+python eval/eval_AesP.py
+```
 
 ## Contact
 
