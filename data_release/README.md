@@ -31,7 +31,9 @@ python eval/eval_AesP.py
 Please contact the following authors of this paper for queries.
 
 - Yipo Huang, `huangyipo@stu.xidian.edu.cn `, 
-- Quan Yuan, `dylan.yuanquan@outlook.com`, 
+- Quan Yuan, `dylan.yuanquan@outlook.com`,
+- Xiangfei Sheng, `xiangfeisheng@gmail.com`
+- Zhichao Yang, `yangzhichao@stu.xidian.edu.cn`
 
 ## Citation
 
