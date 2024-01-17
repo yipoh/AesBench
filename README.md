@@ -142,7 +142,7 @@ Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision]
 ## Submission Guideline
 
 
-- via GitHub Release: Please see our [release]([https://pan.baidu.com/s/1ghXunZJlIjhXGeSWeIl1sA?pwd=ippl](https://github.com/yipoh/AesBench/tree/main/data_release)) for details.
+- via GitHub Release: Please see our [release](https://github.com/yipoh/AesBench/tree/main/data_release) for details.
 
 
 
