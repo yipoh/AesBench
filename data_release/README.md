@@ -1,4 +1,4 @@
-<p align="right">Implementation| <a href="./README.md">Introduction</a></p>
+<p align="right">Implementation| <a href="https://github.com/yipoh/AesBench/README.md">Introduction</a></p>
 ## Data Release
 
 - Option 1: through [BaiduYun](https://pan.baidu.com/s/1ghXunZJlIjhXGeSWeIl1sA?pwd=ippl).
