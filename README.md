@@ -3,6 +3,7 @@
     <img src="imgs/img1.png" width="150" style="margin-bottom: 0.2;"/>
 <p>
 <h2 align="center"> <a href="https://arxiv.org/abs/2401.08276"> AesBench: An Expert Benchmark for Multimodal Large Language Models on <br> Image Aesthetics Perception</a></h2>
+<!--
 <p align="center">
   <a>Yipo Huang†</a><sup>1</sup>, 
   <a>Quan Yuan†</a><sup>1</sup>, 
@@ -20,6 +21,7 @@
   <sup>3</sup>OPPO Research Institute</li>
 </ul>
 <p align="center"> †Equal contribution, *Corresponding Author </p>
+    -->
 <!--
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub.  </h2>
 
