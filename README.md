@@ -2,12 +2,11 @@
     
     
  <div>
+     <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
     <a href="https://github.com/yipoh/AesBench"><img src="https://img.shields.io/github/stars/yipoh/AesBench"/></a>
     <a href="https://arxiv.org/abs/2401.08276"><img src="https://img.shields.io/badge/Arxiv-2401:08276-red"/></a>
     <a href="https://github.com/Q-Future/Q-Bench/releases/tag/v1.0.1.1014datarelease"><img src="https://img.shields.io/badge/Data-Comming_Soon-blue"></a>
-   </div>
-
-
+</div>
    
 
   <h1>AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception</h1>
@@ -162,4 +161,3 @@ If you find our work interesting, please feel free to cite our paper:
     year={2024},
 }
 ```
-![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{yipoh})
