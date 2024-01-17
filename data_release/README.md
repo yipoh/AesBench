@@ -1,7 +1,7 @@
 ## Data Release
 
-The respective images can be access through [EAPD_release.zip](https://pan.baidu.com/s/1ghXunZJlIjhXGeSWeIl1sA?pwd=ippl).
-
+- Option 1: through [BaiduYun](https://pan.baidu.com/s/1ghXunZJlIjhXGeSWeIl1sA?pwd=ippl).
+- Option 2: through [Google Drive](https://drive.usercontent.google.com/download?id=1KsypUKfaFNNNdG995lUeDwOAu_xK8pax&export=download)
 
 ## Evaluation 
 Here is an example code for evaluting through API style, please fit the according lines for evaluating your own MLLMs.
