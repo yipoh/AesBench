@@ -3,7 +3,7 @@
     <img src="imgs/img1.png" width="150" style="margin-bottom: 0.2;"/>
 <p>
 <h2 align="center"> <a href="https://arxiv.org/abs/XXXX"> AesBench: An Expert Benchmark for Multimodal Large Language Models on <br> Image Aesthetics Perception</a></h2>
-<h4 align="center">
+<p align="center">
   <a>Yipo Huang†</a><sup>1</sup>, 
   <a>Quan Yuan†</a><sup>1</sup>, 
   <a>Xiangfei Sheng</a><sup>1</sup>, 
@@ -13,13 +13,13 @@
   <a>Yuzhe Yang</a><sup>3</sup>, 
   <a>Leida Li*</a><sup>1</sup>, 
   <a>Weisi Lin</a><sup>2</sup>
-</h4>
+</p>
 <ul align="center">
   <sup>1</sup>Xidian University</li>
   <sup>2</sup>Nanyang Technological University</li>
   <sup>3</sup>OPPO Research Institute</li>
 </ul>
-<h5 align="center"> †Equal contribution, *Corresponding Author </h5>
+<p align="center"> †Equal contribution, *Corresponding Author </p>
 <!--
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub.  </h2>
 
