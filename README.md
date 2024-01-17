@@ -13,7 +13,7 @@
 
   <h1>AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception</h1>
 
-_How do multi-modaility LLMs perform on Aesthetic Perception?_
+_How do multi-modality LLMs perform on Image Aesthetics Perception?_
   <div>
   <sup>1*</sup>Yipo Huang, <sup>1*</sup>Quan Yuan,<sup>1</sup>Xiangfei Sheng, <sup>1</sup>Zhichao Yang,<sup>2</sup>Haoning Wu
        </div>   
