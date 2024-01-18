@@ -5,7 +5,7 @@
 - Option 2: through [Google Drive](https://drive.usercontent.google.com/download?id=1KsypUKfaFNNNdG995lUeDwOAu_xK8pax&export=download)
 
 ### step2: Submit A Request For Access
-Please send an application email to Yipo Huang(`huangyipo@stu.xidian.edu.cn‘) with the ALL of the following contents:
+Please send an application email to Yipo Huang(`huangyipo@stu.xidian.edu.cn`) with the ALL of the following contents:
 
 - your name,
 
