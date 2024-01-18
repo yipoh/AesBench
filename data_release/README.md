@@ -1,7 +1,20 @@
 ## Data Release
 
+### step1: Download Dataset
 - Option 1: through [BaiduYun](https://pan.baidu.com/s/1ghXunZJlIjhXGeSWeIl1sA?pwd=ippl).
 - Option 2: through [Google Drive](https://drive.usercontent.google.com/download?id=1KsypUKfaFNNNdG995lUeDwOAu_xK8pax&export=download)
+
+### step2: Submit A Request For Access
+Please send an application email to Yipo Huang(`huangyipo@stu.xidian.edu.cn‘) with the ALL of the following contents:
+
+- your name,
+
+- your affiliation,
+
+- your contact information,
+
+- your purpose statement.
+
 
 ## Evaluation 
 Here is an example code for evaluting through API style, please fit the according lines for evaluating your own MLLMs.
@@ -29,7 +42,7 @@ python eval/eval_AesP.py
 ### Submit results
 After evaluation, you will get 4 XXX.json, please submit to us through one of the following :
 
-- Yipo Huang, `huangyipo@stu.xidian.edu.cn `, 
+- Yipo Huang, `huangyipo@stu.xidian.edu.cn‘, 
 - Quan Yuan, `dylan.yuanquan@outlook.com`,
 - Xiangfei Sheng, `xiangfeisheng@gmail.com`,
 - Zhichao Yang, `yangzhichao@stu.xidian.edu.cn`.
