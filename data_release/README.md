@@ -1,19 +1,11 @@
 ## Data Release
 
-### step1: Download Dataset
+### Step1: Download Dataset
 - Option 1: through [BaiduYun](https://pan.baidu.com/s/1ghXunZJlIjhXGeSWeIl1sA?pwd=ippl).
 - Option 2: through [Google Drive](https://drive.usercontent.google.com/download?id=1KsypUKfaFNNNdG995lUeDwOAu_xK8pax&export=download)
 
-### step2: Submit A Request For Access
-Please send an application email to Yipo Huang(`huangyipo@stu.xidian.edu.cn`) with the ALL of the following contents:
-
-- your name,
-
-- your affiliation,
-
-- your contact information,
-
-- your purpose statement.
+### Step2: Submit A Request For Access
+The dataset is password protected. Please send a download application email to Yipo Huang(`huangyipo@stu.xidian.edu.cn`) together with your name, affiliation, and purpose statement, and we will send you the password.  
 
 
 ## Evaluation 
