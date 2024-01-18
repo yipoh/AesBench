@@ -42,7 +42,7 @@ python eval/eval_AesP.py
 ### Submit results
 After evaluation, you will get 4 XXX.json, please submit to us through one of the following :
 
-- Yipo Huang, `huangyipo@stu.xidian.edu.cn‘, 
+- Yipo Huang, `huangyipo@stu.xidian.edu.cn`, 
 - Quan Yuan, `dylan.yuanquan@outlook.com`,
 - Xiangfei Sheng, `xiangfeisheng@gmail.com`,
 - Zhichao Yang, `yangzhichao@stu.xidian.edu.cn`.
