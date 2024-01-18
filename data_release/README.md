@@ -1,4 +1,3 @@
-<p align="right">Implementation| <a href="https://github.com/yipoh/AesBench">Introduction</a></p>
 ## Data Release
 
 - Option 1: through [BaiduYun](https://pan.baidu.com/s/1ghXunZJlIjhXGeSWeIl1sA?pwd=ippl).
