@@ -5,7 +5,13 @@
 - Option 2: through [Google Drive](https://drive.usercontent.google.com/download?id=1KsypUKfaFNNNdG995lUeDwOAu_xK8pax&export=download)
 
 ### Step2: Submit A Request For Access
-The dataset is password protected. Please send a download application email to Yipo Huang(`huangyipo@stu.xidian.edu.cn`) together with your name, affiliation, and purpose statement, and we will send you the password.  
+The dataset is password protected. Please send a download application email to Yipo Huang(`huangyipo@stu.xidian.edu.cn`) together with ALL of the following contents:
+
+- Your name
+- Your affiliation
+- Your purpose statement
+
+We will send you the unzip password as soon as possible.  
 
 
 ## Evaluation 
