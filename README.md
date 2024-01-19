@@ -80,7 +80,7 @@ Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision]
 
 Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision](https://ai.google.dev/), and other OA MLLMs on AesE.
 
-| Rank | MLLM            | Emotion | Interest | Uniqueness | Vibe. | NIs | AIs | AGIs | Yes-No | What | How | Why | Overall |
+| Rank | MLLM            | Emotion | Interest | Uniqueness | Vibe | NIs | AIs | AGIs | Yes-No | What | How | Why | Overall |
 |:----:|:---------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |🥇| Q-Instruct       | 68.64%  | 83.86%  | 75.86%  | 80.00%  | 76.65%  | 72.19%  | 66.62%  | 64.30%  | 67.42%  | 81.57%   | 86.76%   | 72.68%   |
 |🥈| Gemini Pro Vision| 66.87%  | 87.50%  | 70.00%  | 79.09%  | 70.60%  | 72.35%  | 71.53%  | 67.50%  | 64.52%  | 72.25%   | 90.37%   | 71.37%   |
