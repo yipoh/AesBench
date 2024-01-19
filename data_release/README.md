@@ -16,7 +16,7 @@ We will send you the unzip password as soon as possible.
 
 
 ## Evaluation 
-Here is an example code for evaluting through API style, please fit the according lines for evaluating your own MLLMs.
+Here is an example code for evaluating through API style, please fit the according lines for evaluating your own MLLMs.
 
 ### Evaluating AesA1
 ```python
@@ -39,7 +39,7 @@ python eval/eval_AesP.py
 ```
 
 ### Submit results
-After evaluation, you will get 4 .json files, please submit to us through one of the following :
+After evaluation, you will get 4 files `(.json)`, please submit them to us together with the name of your tested MLLM through one of the following :
 
 - Yipo Huang, `huangyipo@stu.xidian.edu.cn` (Primary)
 - Quan Yuan, `dylan.yuanquan@outlook.com`,
