@@ -49,8 +49,8 @@ _How do Multimodal LLMs perform on Image Aesthetics Perception?_
      </p> 
 
 ## News
-- [2024/01/18] 🚩 Test set of AesBench now support [Huggingface](https://huggingface.co/qyuan/AesBench)😆!
-- [2024/01/17] 🤗We have release test set of AesBench! Check [Here](https://github.com/yipoh/AesBench/tree/main/data_release) for more details. 
+- [2024/01/18] 🚩 Database of AesBench now support [Huggingface](https://huggingface.co/qyuan/AesBench)😆!
+- [2024/01/17] 🤗We have released the Evaluation Database and Codes of AesBench! Check [Here](https://github.com/yipoh/AesBench/tree/main/data_release) for more details. 
 
 
 ## GPT-4V and Gemini Pro Vision!
