@@ -49,7 +49,7 @@ _How do Multimodal LLMs perform on Image Aesthetics Perception?_
      </p> 
 
 ## News
-- [2024/01/20] 🎉 Congrats to [SPHINX-MoE](https://github.com/Alpha-VLLM/LLaMA2-Accessory) for achieving new SOTA on AesP and AesE!!
+- [2024/01/20] 🎉 Congrats to [SPHINX-MoE](https://github.com/Alpha-VLLM/LLaMA2-Accessory) for achieving new SOTAs on AesP and AesE!!
 - [2024/01/18] 🤗 Database of AesBench now support [Huggingface](https://huggingface.co/qyuan/AesBench)!
 - [2024/01/17] 🚩 We have released the Evaluation Database and Codes of AesBench! Check [Here](https://github.com/yipoh/AesBench/tree/main/data_release) for more details. 
 
