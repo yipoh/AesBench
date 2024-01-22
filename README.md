@@ -11,7 +11,7 @@
 
    
 
-  <h1>AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception</h1>
+  <h1>AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception </h1>
 
 _How do Multimodal LLMs perform on Image Aesthetics Perception?_
   <div>
