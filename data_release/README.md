@@ -39,7 +39,8 @@ python eval/eval_AesP.py
 ```
 
 ### Submit results
-**NOTE** : ONLY UTF-8 encoded submit is acceptable.
+**NOTE**: Please ensure all submitted text data is encoded in **UTF-8 FORMAT**. Submissions not adhering to this encoding standard will **NOT** be accepted.
+
 
 After evaluation, you will get 4 files `(.json)`. Please submit them to us together with the name of your tested MLLM through one of the following :
 
