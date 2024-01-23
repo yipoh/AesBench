@@ -39,7 +39,9 @@ python eval/eval_AesP.py
 ```
 
 ### Submit results
-After evaluation, you will get 4 files `(.json)`(**NOTE that ONLY UTF-8 encoded is accepted**). Please submit them to us together with the name of your tested MLLM through one of the following :
+**NOTE** : ONLY UTF-8 encoded submit is acceptable.
+
+After evaluation, you will get 4 files `(.json)`. Please submit them to us together with the name of your tested MLLM through one of the following :
 
 - Yipo Huang, `huangyipo@stu.xidian.edu.cn` (Primary)
 - Quan Yuan, `dylan.yuanquan@outlook.com`,
