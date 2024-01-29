@@ -10,7 +10,6 @@
    </div>
 
 
-   
 
   <h1>AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception </h1>
 
