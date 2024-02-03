@@ -14,13 +14,24 @@
   <h1>AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception </h1>
 
 _How do Multimodal LLMs perform on Image Aesthetics Perception?_
-  <div>
-  <sup>1*</sup>Yipo Huang, <sup>1*</sup>Quan Yuan,<sup>1</sup>Xiangfei Sheng, <sup>1</sup>Zhichao Yang,<sup>2</sup>Haoning Wu
-       </div>   
+ 
 
   <div>
-  <sup>1</sup>Pengfei Chen, <sup>3</sup>Yuzhe Yang,<sup>1#</sup>Leida Li, <sup>2</sup>Weisi Lin 
-       </div>  
+      <a href="https://github.com/yipoh" target="_blank">Yipo Huang</a><sup>1</sup><sup>*</sup>,
+      <a href="https://github.com/dylanqyuan" target="_blank">Quan Yuan</a><sup>1</sup><sup>*</sup>,
+      <a href="https://github.com/yipoh/AesBench" target="_blank">Xiangfei Sheng</a><sup>1</sup>,
+      <a href="https://github.com/zc-cpu" target="_blank">Zhichao Yang</a><sup>1</sup>,
+      <a href="https://teowu.github.io" target="_blank">Haoning Wu</a><sup>2</sup>,
+  </div>
+
+   <div>
+      <a href="https://faculty.xidian.edu.cn/chenpengfei/en/index.htm" target="_blank">Pengfei Chen</a><sup>1</sup>,
+      <a href="https://yuzheyang.github.io" target="_blank">Yuzhe Yang</a><sup>3</sup>,
+      <a href="https://web.xidian.edu.cn/ldli/index.html" target="_blank">Leida Li</a><sup>1</sup>,
+      <a href="https://personal.ntu.edu.sg/wslin/" target="_blank">Weisi Lin</a><sup>2</sup>,
+  </div>
+  
+
        
   <div>
   <sup>1</sup>Xidian University, <sup>2</sup>Nanyang Technological University, <sup>3</sup>OPPO Research Institute
