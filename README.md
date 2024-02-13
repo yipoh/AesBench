@@ -41,7 +41,7 @@ _How do Multimodal LLMs perform on Image Aesthetics Perception?_
    </div>
     
 
-<h5 align="center"> If you like this research, please give us a star ⭐ on GitHub.  </h2>
+<h5 align="center"> If you like this , please give us a star ⭐ on GitHub.  </h2>
     
 
 
@@ -91,7 +91,7 @@ Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision]
 | 16 | TinyGPT-V        | 21.79%  | 24.52%  | 22.13%  | 28.01%  | 22.71%  | 24.69%  | 24.34%  | 32.39%  | 17.99%  | 19.77%   | 19.27%   | 23.71%   |
 
 
-Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision](https://ai.google.dev/), and other OA MLLMs on AesE.
+Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision](https://ai.google.dev/), and other OA MLLMs on AesE. 
 
 | Rank | MLLM            | Emotion | Interest | Uniqueness | Vibe | NIs | AIs | AGIs | Yes-No | What | How | Why | Overall |
 |:----:|:---------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
