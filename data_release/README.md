@@ -14,6 +14,7 @@ The dataset is password protected. Please send a download application email to `
 
 We will send you the unzip password as soon as possible.  
 
+``NOTE: Please note that AesBench is a purely scientific research, non-profit, non-commercial project; the use of the process of strict compliance with Creative Commons Attribution-NonCommercial (CC BY-NC), such as the use of the data, is found to be training models; we reserve the right to take ALL measures. ``
 
 ## Evaluation 
 Here is an example code for evaluating through API style, please fit the according lines for evaluating your own MLLMs.
