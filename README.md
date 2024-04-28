@@ -29,7 +29,7 @@ _How do Multimodal LLMs perform on Image Aesthetics Perception?_
    <div>
       <a href="https://faculty.xidian.edu.cn/chenpengfei/en/index.htm" target="_blank">Pengfei Chen</a><sup>1</sup>,
       <a href="https://yuzheyang.github.io" target="_blank">Yuzhe Yang</a><sup>3</sup>,
-      <a href="https://scholar.google.com/citations?user=xMvuFI8AAAAJ&hl=en&oi=ao" target="_blank">Leida Li</a><sup>1</sup>,
+      <a href="https://scholar.google.com/citations?user=xMvuFI8AAAAJ&hl=en&oi=ao" target="_blank">Leida Li</a><sup>1</sup><sup>#</sup>,
       <a href="https://scholar.google.com/citations?user=D_S41X4AAAAJ&hl=en&oi=ao" target="_blank">Weisi Lin</a><sup>2</sup>,
   </div>
   
