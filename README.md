@@ -22,7 +22,7 @@ _How do Multimodal LLMs perform on Image Aesthetics Perception?_
       <a href="https://github.com/yipoh" target="_blank">Yipo Huang</a><sup>1</sup><sup>*</sup>,
       <a href="https://github.com/dylanqyuan" target="_blank">Quan Yuan</a><sup>1</sup><sup>*</sup>,
       <a href="https://github.com/yipoh/AesBench" target="_blank">Xiangfei Sheng</a><sup>1</sup>,
-      <a href="https://github.com/zc-cpu" target="_blank">Zhichao Yang</a><sup>1</sup>,
+      <a href="https://github.com/yzc-ippl" target="_blank">Zhichao Yang</a><sup>1</sup>,
       <a href="https://teowu.github.io" target="_blank">Haoning Wu</a><sup>2</sup>,
   </div>
 
