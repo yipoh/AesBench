@@ -139,10 +139,10 @@ Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision]
 ## Acknowledgement
 We sincerely thank the 32 aesthetic experts who participated in the subjective experiments. Their rich aesthetic experience and responsible attitude make the benchmark results more reliable. We highlight partial contributors as follows:
 
->  **Wei Liu (educator), Xin Liu (researcher), Luxia Chen (educator), Tianjiao Gu (educator), Dahai Tian (educator), Ziyan Ou (art student), et al.**
+>  **Wei Liu (educator), Xin Liu (researcher), Luxia Chen (educator), Tianjiao Gu (educator), Dahai Tian (educator), Ziyan Ou (art student)**
 
-Many thanks are extended to collaborators, for their kind assistance in data collection and MLLM deployment:
-> **Zhichao Duan and Pangu Xie.**
+We extend our heartfelt thanks to our team members for their invaluable assistance in collecting data and deploying the MLLMs. We highlight partial collaborators as follows:
+> **Zhichao Duan, Pangu Xie, Xinrui Xu, Yanxin Shi**
 
 
 ## Citation
