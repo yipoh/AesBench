@@ -3,7 +3,7 @@
 ### Step1: Download Dataset
 - Option 1: through [BaiduYun](https://pan.baidu.com/s/1ghXunZJlIjhXGeSWeIl1sA?pwd=ippl).
 - Option 2: through [Google Drive](https://drive.usercontent.google.com/download?id=1KsypUKfaFNNNdG995lUeDwOAu_xK8pax&export=download)
-- Option 3: Through [HuggingFace](https://huggingface.co/datasets/qyuan/AesBench)
+- Option 3: Through [HuggingFace](https://huggingface.co/datasets/qyuan/EAPD_release)
 
 ### Step2: Submit A Request For Access
 The dataset is password protected. Please send a download application email to `huangyipo@stu.xidian.edu.cn` (Yipo Huang) together with ALL of the following contents:
