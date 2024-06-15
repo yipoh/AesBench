@@ -1,7 +1,7 @@
 
   <h1>AesBench </h1>    
 
-_Can your MLLM understand the highly abstract image aesthetics like humans?_
+_Can your MLLM understand the highly abstract image aesthetics like humans? Come and test on AesBench !_
     
  <div>
     <a href="https://github.com/yipoh/AesBench"><img src="https://img.shields.io/github/stars/yipoh/AesBench"/></a>
