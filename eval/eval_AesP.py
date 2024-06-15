@@ -32,7 +32,6 @@ class gptRequest():
         return text
 
 
-
 if True:
 
 
