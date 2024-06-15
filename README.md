@@ -1,52 +1,20 @@
-<div align="center">
-    
+
+  <h1>AesBench </h1>    
+
+_Can your MLLM understand the highly abstract image aesthetics like humans?_
     
  <div>
     <a href="https://github.com/yipoh/AesBench"><img src="https://img.shields.io/github/stars/yipoh/AesBench"/></a>
     <a href="https://arxiv.org/abs/2401.08276"><img src="https://img.shields.io/badge/Arxiv-2401:08276-red"/></a>
     <a href="https://huggingface.co/datasets/qyuan/AesBench"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-green"></a>
     <a href="https://github.com/yipoh/AesBench/tree/main/data_release"><img src="https://img.shields.io/badge/Data-Release-orange"></a>
-
-   </div>
-
+</div>
 
 
-
-
-  <h1>AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception </h1>
-
-_How do Multimodal LLMs perform on Image Aesthetics Perception?_
- 
-
-  <div>
-      <a href="https://github.com/yipoh" target="_blank">Yipo Huang</a><sup>1</sup><sup>*</sup>,
-      <a href="https://github.com/dylanqyuan" target="_blank">Quan Yuan</a><sup>1</sup><sup>*</sup>,
-      <a href="https://github.com/yipoh/AesBench" target="_blank">Xiangfei Sheng</a><sup>1</sup>,
-      <a href="https://github.com/yzc-ippl" target="_blank">Zhichao Yang</a><sup>1</sup>,
-      <a href="https://teowu.github.io" target="_blank">Haoning Wu</a><sup>2</sup>,
-  </div>
-
-   <div>
-      <a href="https://faculty.xidian.edu.cn/chenpengfei/en/index.htm" target="_blank">Pengfei Chen</a><sup>1</sup>,
-      <a href="https://yuzheyang.github.io" target="_blank">Yuzhe Yang</a><sup>3</sup>,
-      <a href="https://scholar.google.com/citations?user=xMvuFI8AAAAJ&hl=en&oi=ao" target="_blank">Leida Li</a><sup>1</sup><sup>#</sup>,
-      <a href="https://scholar.google.com/citations?user=D_S41X4AAAAJ&hl=en&oi=ao" target="_blank">Weisi Lin</a><sup>2</sup>,
-  </div>
-  
-
-       
-  <div>
-  <sup>1</sup>Xidian University, <sup>2</sup>Nanyang Technological University, <sup>3</sup>OPPO Research Institute
-       </div>   
-<div>
-<sup>*</sup>Equal contribution. <sup>#</sup>Corresponding author. 
-   </div>
+<h5> If you like this work, please give us a star ⭐ on GitHub.  </h2>
     
 
-<h5 align="center"> If you like this work, please give us a star ⭐ on GitHub.  </h2>
-    
-
-
+<h1>Introduction</h1> 
 </div>
 
  <br>
@@ -56,10 +24,9 @@ _How do Multimodal LLMs perform on Image Aesthetics Perception?_
 <p align="center">
     <img src="imgs/overview.png"/>
 <p>
-    <p align="center">We construct a high-quality Expert-labeled Aesthetic Perception Database (EAPD), based on which we further build the golden benchmark to evaluate four abilities of MLLMs on image aesthetics perception, including Aesthetic Perception (AesP), Aesthetic Empathy (AesE), Aesthetic Assessment (AesA) and Aesthetic Interpretation (AesI).</p>
-    </p> 
-     </p> 
-     </p> 
+
+<p align="justify">Multimodal Large Language Models (MLLMs) are undergoing flourishing development, promoting human-machine interaction and collaboration in daily life. However, their capacities for understanding image aesthetics largely remain unexplored. This may impede the applications of advanced MLLMs in real-world scenarios, such as art design and image generation. To address this dilemma, we introduce  <strong>AesBench</strong>, <strong>an expert benchmark to systematically evaluate the aesthetic understanding capacities of MLLMs</strong>. In this benchmark, high-quality annotations are first collected from aesthetic experts, based on which an aesthetics understanding benchmark dataset is built. In addition, we design a set of integrative criteria to evaluate MLLMs from four shallow-to-deep perspectives, including perception (AesP), empathy (AesE), assessment (AesA), and interpretation (AesI). We hope this work can encourage the community to delve into more profound investigations of the yet untapped potential of MLLMs in image aesthetics understanding.</p>
+
 
 ## News
 - [2024/01/20] 🎉 Congrats to [SPHINX-MoE](https://github.com/Alpha-VLLM/LLaMA2-Accessory) for achieving new SOTAs on AesP and AesE!!
@@ -67,11 +34,11 @@ _How do Multimodal LLMs perform on Image Aesthetics Perception?_
 - [2024/01/17] 🚩 We have released the Evaluation Database and Codes of AesBench! Check [Here](https://github.com/yipoh/AesBench/tree/main/data_release) for more details. 
 
 
-## GPT-4V and Gemini Pro Vision!
 
 
+## Leaderboard
 
-Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision](https://ai.google.dev/), and other OA MLLMs on AesP.
+Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision](https://ai.google.dev/), and other OA MLLMs on AesP
 
 | Rank |MLLM       | Tec. Qua.| Col. Lig.|Comp.|Content|NIs  | AIs  | AGIs  | Yes-No | What | How | Why  |Overall|
 |:----:|:---------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -93,7 +60,7 @@ Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision]
 | 16 | TinyGPT-V        | 21.79%  | 24.52%  | 22.13%  | 28.01%  | 22.71%  | 24.69%  | 24.34%  | 32.39%  | 17.99%  | 19.77%   | 19.27%   | 23.71%   |
 
 
-Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision](https://ai.google.dev/), and other OA MLLMs on AesE. 
+Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision](https://ai.google.dev/), and other OA MLLMs on AesE 
 
 | Rank | MLLM            | Emotion | Interest | Uniqueness | Vibe | NIs | AIs | AGIs | Yes-No | What | How | Why | Overall |
 |:----:|:---------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -115,7 +82,7 @@ Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision]
 |16| TinyGPT-V         | 30.36%  | 29.03%  | 31.03%  | 35.40%  | 32.50%  | 36.03%  | 26.99%  | 36.00%  | 29.89%  | 28.86%   | 31.62%   | 32.04%   |
 
 
-Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision](https://ai.google.dev/), and other OA MLLMs on AesA.
+Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision](https://ai.google.dev/), and other OA MLLMs on AesA
 
 | Rank | MLLM               | NIs| AIs | AGIs | Overall |
 |:----:|:---------:|:-----:|:-----:|:-----:|:-----:|
@@ -137,7 +104,7 @@ Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision]
 |16| MiniGPT-v2          | 27.05%  | 31.92%  | 36.97%  | 31.11%  |
 
 
-Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision](https://ai.google.dev/), and other OA MLLMs on AesI.
+Here is the comparison of [GPT-4V](https://chat.openai.com), [Gemini Pro Vision](https://ai.google.dev/), and other OA MLLMs on AesI
 
 
 |Rank | Model               | Relevance | Precision | Completeness | Overall | 
