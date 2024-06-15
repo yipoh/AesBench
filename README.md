@@ -28,10 +28,10 @@ _Can your MLLM understand the highly abstract image aesthetics like humans?_
 <p align="justify">Multimodal Large Language Models (MLLMs) are undergoing flourishing development, promoting human-machine interaction and collaboration in daily life. However, their capacities for understanding image aesthetics largely remain unexplored. This may impede the applications of advanced MLLMs in real-world scenarios, such as art design and image generation. To address this dilemma, we introduce  <strong>AesBench</strong>, <strong>an expert benchmark to systematically evaluate the aesthetic understanding capacities of MLLMs</strong>. In this benchmark, high-quality annotations are first collected from aesthetic experts, based on which an aesthetics understanding benchmark dataset is built. In addition, we design a set of integrative criteria to evaluate MLLMs from four shallow-to-deep perspectives, including perception (AesP), empathy (AesE), assessment (AesA), and interpretation (AesI). We hope this work can encourage the community to delve into more profound investigations of the yet untapped potential of MLLMs in image aesthetics understanding.</p>
 
 
-## News
-- [2024/01/20] 🎉 Congrats to [SPHINX-MoE](https://github.com/Alpha-VLLM/LLaMA2-Accessory) for achieving new SOTAs on AesP and AesE!!
-- [2024/01/18] 🤗 Database of AesBench now support [Huggingface](https://huggingface.co/datasets/qyuan/EAPD_release)!
-- [2024/01/17] 🚩 We have released the Evaluation Database and Codes of AesBench! Check [Here](https://github.com/yipoh/AesBench/tree/main/data_release) for more details. 
+## Update
+- 🎉 Congrats to [SPHINX-MoE](https://github.com/Alpha-VLLM/LLaMA2-Accessory) for achieving new SOTAs on AesP and AesE!!
+- 🤗 Database of AesBench now support [Huggingface](https://huggingface.co/datasets/qyuan/EAPD_release)!
+- 🚩 We have released the Evaluation Database and Codes of AesBench! Check [Here](https://github.com/yipoh/AesBench/tree/main/data_release) for more details. 
 
 
 
