@@ -29,10 +29,10 @@ _Can your MLLM understand the highly abstract image aesthetics like humans? Come
 
 
 ## Update
-- 🎉 We have supported [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) to facilitate quick testing of your MLLMs. 🔥🔥🔥
-- 🎉 Congrats to [SPHINX-MoE](https://github.com/Alpha-VLLM/LLaMA2-Accessory) for achieving new SOTAs on AesP and AesE!!
-- 🤗 Database of AesBench now support [Huggingface](https://huggingface.co/datasets/qyuan/EAPD_release)!
-- 🚩 We have released the Evaluation Database and Codes of AesBench! Check [Here](https://github.com/yipoh/AesBench/tree/main/data_release) for more details. 
+- We have supported [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) to facilitate quick testing of your MLLMs. 🔥🔥🔥
+- Congrats to [SPHINX-MoE](https://github.com/Alpha-VLLM/LLaMA2-Accessory) for achieving new SOTAs on AesP and AesE!! 🎉🎉🎉
+- Database of AesBench now support [Huggingface](https://huggingface.co/datasets/qyuan/EAPD_release)! 🤗🤗🤗
+- We have released the Evaluation Database and Codes of AesBench! Check [Here](https://github.com/yipoh/AesBench/tree/main/data_release) for more details.  🚩🚩🚩
 
 
 
