@@ -30,7 +30,7 @@ _Can your MLLM understand the highly abstract image aesthetics like humans? Come
 
 
 ## News
-- Our Leaderboard is now accessible at [Homepage](https://aesbench.github.io/). 🔥🔥🔥
+- Leaderboard is now accessible at [Homepage](https://aesbench.github.io/). 🔥🔥🔥
 - We have integrated [AesBench](https://aesbench.github.io/) to the evaluation toolkit [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), providing a highly convenient testing solution! 🔥🔥🔥
 - Database of AesBench now support [Huggingface](https://huggingface.co/datasets/qyuan/EAPD_release)! 🤗🤗🤗
 - We have released the Evaluation Database and Codes of AesBench! Check [Here](https://github.com/yipoh/AesBench/tree/main/data_release) for more details.  🚩🚩🚩
@@ -53,6 +53,14 @@ _Can your MLLM understand the highly abstract image aesthetics like humans? Come
 | [**IDEFICS_Instruct**](https://huggingface.co/HuggingFaceM4/idefics-9b-instruct) | [**GLM**](https://github.com/THUDM/GLM) | [**Otter**](https://github.com/Luodian/Otter) | [**TinyGPT-v**](https://github.com/DLYuanGod/TinyGPT-V) | [**Qwen-VL**](https://github.com/QwenLM/Qwen-VL) |
 
 | [**LLaVA**](https://github.com/haotian-liu/LLaVA/) | [**LLaVA-1.5**](https://github.com/haotian-liu/LLaVA/) | [**mPLUG-Owl2**](https://github.com/X-PLUG/mPLUG-Owl/) | [**ShareGPT4V**](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) | [**SPHINX-MoE**](https://github.com/Alpha-VLLM/LLaMA2-Accessory) | 
+
+📌 **TO DO**
+- ✅ BlueImage-GPT
+- [ ] [**LLaVA-1.6**](https://github.com/haotian-liu/LLaVA/)
+- [ ] [**OmniLMM-12B**](https://huggingface.co/openbmb/OmniLMM-12B/tree/main)
+
+**Any models that you would like to test on AesBench, please contact us.**
+
 ## Submission Guideline
 
 
