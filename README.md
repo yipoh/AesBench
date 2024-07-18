@@ -30,7 +30,7 @@ _Can your MLLM understand the highly abstract image aesthetics like humans? Come
 
 
 ## News
-- [AesBench](https://github.com/yipoh/AesBench) can be evaluated on [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), thanks to [kennymckormick](https://github.com/kennymckormick). 🔥🔥🔥
+- We have integrated [AesBench](https://aesbench.github.io/) to the evaluation toolkit [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), providing a highly convenient testing solution! 🔥🔥🔥
 - Congrats to [SPHINX-MoE](https://github.com/Alpha-VLLM/LLaMA2-Accessory) for achieving new SOTAs on AesP and AesE!! 🎉🎉🎉
 - Database of AesBench now support [Huggingface](https://huggingface.co/datasets/qyuan/EAPD_release)! 🤗🤗🤗
 - We have released the Evaluation Database and Codes of AesBench! Check [Here](https://github.com/yipoh/AesBench/tree/main/data_release) for more details.  🚩🚩🚩
@@ -40,11 +40,19 @@ _Can your MLLM understand the highly abstract image aesthetics like humans? Come
 
 ## Leaderboard Update
 
-- Here is the [AesBench Leaderboard](https://aesbench.github.io/), which is continuously being updated.
+[**AesBench Leaderboard**](https://aesbench.github.io/) is continuously being updated.
 
+- **Supported closed-source commercial models**
 
+| [**GPT-4v**](https://platform.openai.com/docs/guides/vision) | [**GPT-4o**](https://openai.com/index/hello-gpt-4o/)| [**Gemini-1.0-Pro**](https://platform.openai.com/docs/guides/vision)| [**Claude3-Opus**](https://www.anthropic.com/news/claude-3-family) | **BlueImage-GPT** | 
 
+- **Supported open-source models**
 
+| [**MiniCPM-L3-2.5**](https://github.com/OpenBMB/MiniCPM-V) | [**Q-Instruct**](https://q-future.github.io/Q-Instruct/) | [**InstructBLIP**](https://huggingface.co/Salesforce/instructblip-vicuna-7b) | [**MiniGPT-4**](https://github.com/Vision-CAIR/MiniGPT-4) | [**MiniGPT-v2**](https://github.com/Vision-CAIR/MiniGPT-4) |
+
+| [**IDEFICS_Instruct**](https://huggingface.co/HuggingFaceM4/idefics-9b-instruct) | [**GLM**](https://github.com/THUDM/GLM) | [**Otter**](https://github.com/Luodian/Otter) | [**TinyGPT-v**](https://github.com/DLYuanGod/TinyGPT-V) | [**Qwen-VL**](https://github.com/QwenLM/Qwen-VL) |
+
+| [**LLaVA**](https://github.com/haotian-liu/LLaVA/) | [**LLaVA-1.5**](https://github.com/haotian-liu/LLaVA/) | [**mPLUG-Owl2**](https://github.com/X-PLUG/mPLUG-Owl/) | [**ShareGPT4V**](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V) | [**SPHINX-MoE**](https://github.com/Alpha-VLLM/LLaMA2-Accessory) | 
 ## Submission Guideline
 
 
