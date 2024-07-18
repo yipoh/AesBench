@@ -4,10 +4,11 @@
 _Can your MLLM understand the highly abstract image aesthetics like humans? Come and test on AesBench !_
     
  <div>
-    <a href="https://github.com/yipoh/AesBench"><img src="https://img.shields.io/github/stars/yipoh/AesBench"/></a>
+    <a href="https://aesbench.github.io/"><img src="https://img.shields.io/badge/Homepage-AesBench-pink"/></a>
     <a href="https://arxiv.org/abs/2401.08276"><img src="https://img.shields.io/badge/Arxiv-2401:08276-red"/></a>
     <a href="https://huggingface.co/datasets/qyuan/EAPD_release"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-green"></a>
     <a href="https://github.com/yipoh/AesBench/tree/main/data_release"><img src="https://img.shields.io/badge/Data-Release-orange"></a>
+   <a href="https://aesbench.github.io/"><img src="https://img.shields.io/badge/Leaderboard-AesBench-yellow"/></a>
 </div>
 
 
