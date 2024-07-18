@@ -31,7 +31,6 @@ _Can your MLLM understand the highly abstract image aesthetics like humans? Come
 
 ## News
 - We have integrated [AesBench](https://aesbench.github.io/) to the evaluation toolkit [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), providing a highly convenient testing solution! 🔥🔥🔥
-- Congrats to [SPHINX-MoE](https://github.com/Alpha-VLLM/LLaMA2-Accessory) for achieving new SOTAs on AesP and AesE!! 🎉🎉🎉
 - Database of AesBench now support [Huggingface](https://huggingface.co/datasets/qyuan/EAPD_release)! 🤗🤗🤗
 - We have released the Evaluation Database and Codes of AesBench! Check [Here](https://github.com/yipoh/AesBench/tree/main/data_release) for more details.  🚩🚩🚩
 
