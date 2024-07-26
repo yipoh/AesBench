@@ -30,11 +30,11 @@ _Can your MLLM understand the highly abstract image aesthetics like humans? Come
 
 
 ## News
-- AesBench was reported at [VIVO Imaging Event](https://shopact.vivo.com.cn/pcspace/wk240718dc2875f4). 🔥🔥🔥
-- Leaderboard is now accessible at [Homepage](https://aesbench.github.io/). 🔥🔥🔥
-- We have integrated [AesBench](https://aesbench.github.io/) to the evaluation toolkit [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), providing a highly convenient testing solution! 🔥🔥🔥
-- Database of AesBench now support [Huggingface](https://huggingface.co/datasets/qyuan/EAPD_release)! 🤗🤗🤗
-- We have released the Evaluation Database and Codes of AesBench! Check [Here](https://github.com/yipoh/AesBench/tree/main/data_release) for more details.  🚩🚩🚩
+- [2024/07/26] AesBench was reported at [VIVO Imaging Event](https://shopact.vivo.com.cn/pcspace/wk240718dc2875f4). 🔥🔥🔥
+- [2024/07/18] Leaderboard is now accessible at [Homepage](https://aesbench.github.io/). 🔥🔥🔥
+- [2024/06/19] We have integrated [AesBench](https://aesbench.github.io/) to the evaluation toolkit [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), providing a highly convenient testing solution! 🔥🔥🔥
+- [2024/01/18] Database of AesBench now support [Huggingface](https://huggingface.co/datasets/qyuan/EAPD_release)! 🤗🤗🤗
+- [2024/01/17] We have released the Evaluation Database and Codes of AesBench! Check [Here](https://github.com/yipoh/AesBench/tree/main/data_release) for more details.  🚩🚩🚩
 
 
 
