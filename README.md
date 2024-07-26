@@ -30,6 +30,7 @@ _Can your MLLM understand the highly abstract image aesthetics like humans? Come
 
 
 ## News
+- AesBench was reported at [VIVO Imaging Event](https://shopact.vivo.com.cn/pcspace/wk240718dc2875f4). 🔥🔥🔥
 - Leaderboard is now accessible at [Homepage](https://aesbench.github.io/). 🔥🔥🔥
 - We have integrated [AesBench](https://aesbench.github.io/) to the evaluation toolkit [VLMEvalKit](https://github.com/open-compass/VLMEvalKit), providing a highly convenient testing solution! 🔥🔥🔥
 - Database of AesBench now support [Huggingface](https://huggingface.co/datasets/qyuan/EAPD_release)! 🤗🤗🤗
