@@ -45,7 +45,7 @@ _Can your MLLM understand the highly abstract image aesthetics like humans? Come
 
 - **Supported closed-source commercial models**
 
-| [**GPT-4v**](https://platform.openai.com/docs/guides/vision) | [**GPT-4o**](https://openai.com/index/hello-gpt-4o/) | [**Gemini-1.0-Pro**](https://platform.openai.com/docs/guides/vision) | [**Claude3-Opus**](https://www.anthropic.com/news/claude-3-family) | **BlueImage-GPT** | 
+| [**GPT-4v**](https://platform.openai.com/docs/guides/vision) | [**GPT-4o**](https://openai.com/index/hello-gpt-4o/) | [**Gemini-1.0-Pro**](https://platform.openai.com/docs/guides/vision) | [**Claude3-Opus**](https://www.anthropic.com/news/claude-3-family) | [**BlueImage-GPT**](imgs/vivo_imaging.jpg) | 
 
 - **Supported open-source models**
 
