@@ -49,6 +49,8 @@ _Can your MLLM understand the highly abstract image aesthetics like humans? Come
 
 - **Supported open-source models**
 
+| [**Deepseek-VL2-tiny**](https://github.com/deepseek-ai/DeepSeek-VL2) | [**InternVL2-8b**](https://huggingface.co/OpenGVLab/InternVL2-8B) |
+
 | [**MiniCPM-L3-2.5**](https://github.com/OpenBMB/MiniCPM-V) | [**Q-Instruct**](https://q-future.github.io/Q-Instruct/) | [**InstructBLIP**](https://huggingface.co/Salesforce/instructblip-vicuna-7b) | [**MiniGPT-4**](https://github.com/Vision-CAIR/MiniGPT-4) | [**MiniGPT-v2**](https://github.com/Vision-CAIR/MiniGPT-4) |
 
 | [**IDEFICS_Instruct**](https://huggingface.co/HuggingFaceM4/idefics-9b-instruct) | [**GLM**](https://github.com/THUDM/GLM) | [**Otter**](https://github.com/Luodian/Otter) | [**TinyGPT-v**](https://github.com/DLYuanGod/TinyGPT-V) | [**Qwen-VL**](https://github.com/QwenLM/Qwen-VL) |
