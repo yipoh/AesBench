@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assessment Result</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #1a1a1a;
+            color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            background-color: #2a2a2a;
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+            width: 400px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 18px;
+            margin-bottom: 20px;
+            text-align: left;
+        }
+        
+        .filename {
+            font-size: 10px;
+            margin-top: 5px;
+            text-align: center;
+        }
+
+
+        img {
+            width: 100%;
+            max-width: 300px;
+            height: auto;
+            margin-bottom: 5px;
+            border-radius: 8px;
+        }
+
+        a {
+            display: inline-block;
+            background-color: #4a90e2;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            font-size: 16px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        a:hover {
+            background-color: #357ab9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Assessment Result</h1>
+        <img src="{{ url_for('uploaded_file', filename=filename) }}" alt="Uploaded Image">
+        <p class="filename">File Name: {{ filename }}</p>
+
+        <p>{{ answer }}</p>
+        <p>{{ explanation }}</p>
+        <a href="{{ url_for('index') }}">Upload another image</a>
+    </div>
+</body>
+</html>

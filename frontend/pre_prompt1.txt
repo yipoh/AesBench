@@ -1,0 +1,62 @@
+You are tasked with assessing the aesthetic quality of images and categorising them into three levels: High, Medium, and Low. 
+The criteria for each category are as follows:
+
+High (High-Quality Aesthetic):
+
+	1.	Clarity and Definition:
+	•	The image is clear and sharp.
+	•	The photo is high-definition without any noticeable blur.
+	2.	Composition:
+	•	The composition follows aesthetic principles such as the rule of thirds.
+	•	The subject is well-framed and positioned.
+	•	The image has a balanced visual weight.
+	3.	Lighting:
+	•	The lighting is excellent, highlighting the subject effectively.
+	•	There are no harsh shadows or overexposed areas.
+	4.	Technical Quality:
+	•	The image is free from noise and artefacts.
+	•	The resolution is high, ensuring all details are visible.
+
+Medium (Moderate-Quality Aesthetic):
+
+	1.	Clarity and Definition:
+	•	The image is clear, but may not be as sharp as High-quality images.
+	•	There might be slight blur but it does not significantly affect the overall quality.
+	•	It might be seemed like a low image, but it is clear and we can see in details the small objects.
+	2.	Composition:
+	•	The subject is reasonably well-framed, but might not follow all aesthetic principles perfectly.
+	•	The framing might be off, such as not following the rule of thirds.
+	3.	Lighting:
+	•	The lighting is good but not optimal.
+	•	There may be minor issues with shadows or exposure, but they do not detract significantly from the image.
+	4.	Technical Quality:
+	•	The image may have minor noise or artefacts.
+	•	The resolution is adequate but not high-definition.
+
+	Note: Use medium, if it could be equivalent to high but because of the defects, the score is scalled down to medium.
+
+
+Low (Low-Quality Aesthetic):
+ 
+	1.	Clarity and Definition:
+	•	The image is blurry and lacks sharpness.
+	•	The photo is of low quality and does not have a high-definition appearance.
+	2.	Composition:
+	•	The composition is poor, and the subject is not well-framed.
+	•	The image does not follow aesthetic principles like the rule of thirds.
+	•	The visual weight is imbalanced.
+	3.	Lighting:
+	•	The lighting is poor, with issues such as underexposure, overexposure, or harsh shadows.
+	•	The subject is not effectively highlighted.
+	4.	Technical Quality:
+	•	The image has noticeable noise, artefacts, or other technical flaws.
+	•	The resolution is low, making details hard to discern.
+
+	Note: Use low, if it is actually bad. There is no need to be medium if there are more than two flaws.
+
+
+Give a one sentence reason after selecting the answer!
+
+Here is an example how you give the answer:
+Answer: High
+Explanation: The photo is high-definition without any noticeable blur.

@@ -53,16 +53,16 @@ gpt_request = GptRequest()
 
 # Please download the dataset
 # >> Locate where is the dowloaded image dataset:
-path = "/Users/daniel/Datasets/BIQ2021/Images/"
+path = "/Users/daniel/Datasets/BIQ2021/Images"
 
 # >> Locate where to record the gpt output
-save_name = "test_AesA1.json"
+save_name = "test_AesA2.json"
 
 # >> Locate pre-prompt File:
-with open('../pre_prompts/pre_prompt1.txt', 'r') as file:
+with open('../pre_prompts/pre_prompt2.txt', 'r') as file:
     pre_prompt = file.read()
 
-# AesA1 Process
+# AesA2 Process
 # >> Locate list of 100 image names
 with open('../data_release/ground_truth.csv', mode='r') as file:
     reader = csv.reader(file)
@@ -80,22 +80,22 @@ with open('../data_release/ground_truth.csv', mode='r') as file:
         # Locate the image path inside dataset folder
         img_path = os.path.join(path, imgName)
 
-        # Placeholder question and options (assuming these would come from somewhere else)
-        AesA1_prompt = "How is the aesthetic quality of this image? Choose one from the following options: High, Medium, and Low."
-        print(AesA1_prompt)
+        # Placeholder question
+        AesA2_prompt = "How is the aesthetic quality of this image? Rate them from scale 1 to 5."
+        print(AesA2_prompt)
 
         # Wait for response
         start = time.time()
         time.sleep(1)
         
         # Send request to API: Pre-Prompt + Prompt + Image
-        AesA1_message = gpt_request.forward((pre_prompt + AesA1_prompt), img_path)
+        AesA2_message = gpt_request.forward((pre_prompt + AesA2_prompt), img_path)
 
         # Show the answer received from API
-        print(f"\n{AesA1_message}")
+        print(f"\n{AesA2_message}")
 
         # Record the answer
-        answers[imgName] = {"AesA1_response": AesA1_message}
+        answers[imgName] = {"AesA2_response": AesA2_message}
 
         # Write the answer into a json file
         with open(save_name, 'w') as outfile:
@@ -106,7 +106,7 @@ with open('../data_release/ground_truth.csv', mode='r') as file:
         need_time = (avg_time * (len(answers) - img_num)) / 60
 
         # Show the process time
-        print(f"AesA1--{img_num}/{len(answers)} finished. Using time (s):{time.time() - start:.1f}. Average image time (s):{avg_time:.1f}. Need time (min):{need_time:.1f}.")
+        print(f"AesA2--{img_num}/{len(answers)} finished. Using time (s):{time.time() - start:.1f}. Average image time (s):{avg_time:.1f}. Need time (min):{need_time:.1f}.")
                 
         # Increment image number, and go to next image for aesthetic evaluation task
         img_num += 1
